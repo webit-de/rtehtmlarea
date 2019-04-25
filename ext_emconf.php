@@ -1,6 +1,6 @@
 <?php
 $EM_CONF[$_EXTKEY] = array(
-	'title' => 'htmlArea RTE',
+	'title' => 'htmlArea RTE // Patched',
 	'description' => 'Rich Text Editor.',
 	'category' => 'be',
 	'state' => 'stable',
